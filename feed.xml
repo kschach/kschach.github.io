@@ -5,13 +5,185 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2016-11-29T00:39:30+00:00</updated>
+<updated>2017-03-27T04:20:16+01:00</updated>
 <id>/</id>
 <author>
   <name>Kevin Schachter</name>
   <uri>/</uri>
   <email>kevinschachter@gmail.com</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Research Questions -> Interview Questions]]></title>
+  <link rel="alternate" type="text/html" href="/interview-questions" />
+  <id>/interview-questions</id>
+  <published>2017-03-26T00:00:00+01:00</published>
+  <updated>2017-03-26T00:00:00+01:00</updated>
+  <author>
+    <name>Kevin Schachter</name>
+    <uri></uri>
+    <email>kevinschachter@gmail.com</email>
+  </author>
+  <content type="html">&lt;h1 id=&quot;research-questions&quot;&gt;Research Questions&lt;/h1&gt;
+&lt;ol type=&quot;1&quot;&gt;
+&lt;li&gt;What is the theory of change underlying non-profit access to benefits programs?&lt;/li&gt;
+&lt;li&gt;How can non-profit access to benefits programs contribute to socioeconomic justice?&lt;/li&gt;
+&lt;li&gt;Is government investment in non-profit access to benefits programs a sign of progress towards socioeconomic justice, or evidence of the offloading of public responsibility for social welfare?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&quot;interview-questions&quot;&gt;Interview Questions&lt;/h1&gt;
+&lt;h2 id=&quot;background-information&quot;&gt;Background Information&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;What is your role at [organization]?
+&lt;ul&gt;
+&lt;li&gt;Probe: Frontline staff? Program management? Executive director? Volunteer?&lt;/li&gt;
+&lt;li&gt;Probe: Tell me about your responsibilities in this role…&lt;/li&gt;
+&lt;li&gt;Probe: How long have you worked there?&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;What is your connection to the tax filing and access to benefits work that [organization name] does?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;program-model&quot;&gt;Program Model&lt;/h2&gt;
+&lt;h3 id=&quot;genesis-and-intention&quot;&gt;Genesis and Intention&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;When did your organization launch [program name]?&lt;/li&gt;
+&lt;li&gt;What issue does [program name] seek to address?&lt;/li&gt;
+&lt;li&gt;What led your organization to launch this program?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;activities&quot;&gt;Activities&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Which supports does [program name] provide to community members?
+&lt;ul&gt;
+&lt;li&gt;Probe: Through which forms? One-to-one appointments? Group classes? Distribution of educational materials?&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Who provides these supports?
+&lt;ul&gt;
+&lt;li&gt;Probe: Staff? Volunteers?&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Which demographic groups access these supports?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;outputs-outcomes&quot;&gt;Outputs / Outcomes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;What are the intended outcomes of this program?&lt;/li&gt;
+&lt;li&gt;What are the actual outputs and outcomes of this program?
+&lt;ul&gt;
+&lt;li&gt;Probe: May I have a copy of a program report?&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;evaluation&quot;&gt;Evaluation&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;How does your organization evaluate this program?
+&lt;ul&gt;
+&lt;li&gt;Probe: Outputs? Outcomes?&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;How is success defined?
+&lt;ul&gt;
+&lt;li&gt;What indicators are used to evaluate success?&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;social-impacts&quot;&gt;Social Impacts&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;How does your program benefit service users:
+&lt;ul&gt;
+&lt;li&gt;During the course of their program participation?
+&lt;ul&gt;
+&lt;li&gt;Probe: What practices?&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;After they are finished participating in the program?&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Do you think your program benefits other community members who have not directly accessed services from your organization?
+&lt;ul&gt;
+&lt;li&gt;Probe: If so…
+&lt;ul&gt;
+&lt;li&gt;Who benefits?&lt;/li&gt;
+&lt;li&gt;How do they benefit?&lt;/li&gt;
+&lt;li&gt;Why do they benefit? (structural changes? peer-to-peer learning? public distribution of educational materials?)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;key-factors&quot;&gt;Key Factors&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;What factors are most important in enabling your program to realize its intended outcomes?&lt;/li&gt;
+&lt;li&gt;What factors constrain your program’s ability to realize these outcomes?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;strengths-drawbacks&quot;&gt;Strengths / Drawbacks?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;What do you think are the strengths of this program model?&lt;/li&gt;
+&lt;li&gt;…and the drawbacks?&lt;/li&gt;
+&lt;li&gt;Do you have any concerns about this program model?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;relationships-with-other-stakeholders&quot;&gt;Relationships with other Stakeholders&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;To which groups is your program accountable?
+&lt;ul&gt;
+&lt;li&gt;Probe: Connections to community groups? People with experience living on low incomes? Funders? Management? Board?&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;How does your program report to these groups?&lt;/li&gt;
+&lt;li&gt;How do the demographics of service users compare to those of service providers? Probe: Similarities? Differences?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;funders&quot;&gt;Funders&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;How is [program name] funded?
+&lt;ul&gt;
+&lt;li&gt;Probe: major funders / sectors / user fees?&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Have your funding sources changed over time?&lt;/li&gt;
+&lt;li&gt;Why do you think these funders are interested in funding [program name]?
+&lt;ul&gt;
+&lt;li&gt;Probe: What outcomes do you think funders are seeking?&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Are there differences between funders’ visions for the program and your organization’s vision?
+&lt;ul&gt;
+&lt;li&gt;Probe: How so?&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Is there anything you wish the program could do differently that is outside of the scope of your funding?
+&lt;ul&gt;
+&lt;li&gt;Probe: Please elaborate…&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;government&quot;&gt;Government&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Tell me about how your program relates to the Government of Canada and its agencies?
+&lt;ul&gt;
+&lt;li&gt;Probe: Funding? In-kind support? Working together in cross-sectoral collaborations?&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Has this relationship changed over time?
+&lt;ul&gt;
+&lt;li&gt;Probe: If so, how? How did this changes affect your program?&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Tell me about how your program relates to the Province of Manitoba and its agencies?
+&lt;ul&gt;
+&lt;li&gt;Probe: Funding? In-kind support? Working together in cross-sectoral collaborations?&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Has this relationship changed over time?
+&lt;ul&gt;
+&lt;li&gt;Probe: If so, how? How did this changes affect your program?&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;benefits-and-drawbacks-of-access-to-benefits-through-civil-society&quot;&gt;Benefits and Drawbacks of Access to Benefits through Civil Society&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Do you think it’s important that programs such as [program name] are available to community members?
+&lt;ul&gt;
+&lt;li&gt;Probe: Why / Why not?&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Are there any downsides to the existence of these programs?
+&lt;ul&gt;
+&lt;li&gt;Probe: Please elaborate…&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Is there any value added when community members access benefits with the support of non-profit intermediaries vs. directly accessing benefits from the government agencies?
+&lt;ul&gt;
+&lt;li&gt;Probe: Please elaborate…&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Do you see any consequences to this approach?
+&lt;ul&gt;
+&lt;li&gt;Probe: Please elaborate…&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;closing&quot;&gt;Closing&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Is there anything else that you’d like to talk about that I haven’t already asked?&lt;/li&gt;
+&lt;/ul&gt;
+  &lt;p&gt;&lt;a href=&quot;/interview-questions&quot;&gt;Research Questions -> Interview Questions&lt;/a&gt; was originally published by Kevin Schachter at &lt;a href=&quot;&quot;&gt;Confessions of a Futbol Revolutionist&lt;/a&gt; on March 26, 2017.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>
@@ -35,7 +207,7 @@
 &lt;p&gt;Inequality also pervades along lines of ‘race’, citizenship and residency status, and indigeneity. Racialized communities have been systematically excluded from receipt of social assistance benefits in order to reinforce their dependence on low-wage jobs that exploit their labour. Indigenous peoples have had their social assistance benefits channeled through parallel systems that may be underfunded, or through colonial systems that fail to recognize their particular experiences. Finally, first generation immigrants, including refugees and temporary workers, have been denied access to welfare state benefits due to their residency status as temporary workers or undocumented immigrants, or in spite of attaining permanent residence status or citizenship, as a result of having not lived in the country for a sufficient length of time.&lt;/p&gt;
 &lt;p&gt;The above review suggests that the liberal welfare state falls well short of Marshall’s ideal of social citizenship. Minimum benefit levels offered through social assistance programs are insufficient to sustain the necessities of life by virtue of the design requirement that social assistance should be “less eligible” than minimum wage labour. Community members receiving social assistance benefits are subjected to disempowering treatment by benefit administrators and by public discourse that stigmatizes receipt of welfare as pathological dependence. Finally, inequalities based on class, gender, and ‘race’ endure, affecting both the forms of benefits for which an individual qualifies and the generosity of these benefits.&lt;/p&gt;
 &lt;p&gt;My analysis of the potential for access to benefits programs to contribute to socioeconomic justice must therefore consider the specific benefits being accessed through these programs, the demographic groups gaining access to these benefits, and the extent to which specific benefits provide for the necessities of life while respecting the dignity and autonomy of recipients. Furthermore, this review calls critical attention to the intervention strategies employed by access programs. How do the injustices inherent in liberal welfare state constrain programs focused primarily on securing access to welfare state benefits? Are there unintended harms that could result from the inclusion of vulnerable community members as benefit recipients? Finally, if access to benefits programs broaden their approach beyond direct service delivery, what strategies could be effective in pushing the state to assume greater responsibility for social citizenship?&lt;/p&gt;
-&lt;div class=&quot;references&quot;&gt;
+&lt;div id=&quot;refs&quot; class=&quot;references&quot;&gt;
 &lt;div id=&quot;ref-abramovitz1983&quot;&gt;
 &lt;p&gt;Abramovitz, Mimi. 1983. “Everyone Is on Welfare: ‘The Role of Redistribution in Social Policy’ Revisited.” &lt;em&gt;Social Work&lt;/em&gt; 28(6):440–45.&lt;/p&gt;
 &lt;/div&gt;
@@ -46,7 +218,7 @@
 &lt;p&gt;Fraser, Nancy and Linda Gordon. 1994. “A Genealogy of ‘Dependency’: Tracing a Keyword of the U.S. Welfare State.” &lt;em&gt;Signs&lt;/em&gt; 19(2):309–36.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&quot;ref-marshall1950&quot;&gt;
-&lt;p&gt;Marshall, T. H. 1950. &lt;em&gt;Citizenship and Social Class&lt;/em&gt;. Cambridge EngUniversity Press.&lt;/p&gt;
+&lt;p&gt;Marshall, T. H. 1950. &lt;em&gt;Citizenship and Social Class&lt;/em&gt;. Cambridge University Press.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&quot;ref-olsen2002&quot;&gt;
 &lt;p&gt;Olsen, Gregg Matthew. 2002. &lt;em&gt;The Politics of the Welfare State : Canada, Sweden and the United States&lt;/em&gt;. Don Mills, Ont: Oxford University Press.&lt;/p&gt;
@@ -87,7 +259,7 @@
 &lt;p&gt;While it is difficult to assess the impacts that non-profit and government financial empowerment programs have in increasing benefit take-up among the low-income population as a whole, on a micro level it is clear that there is a significant demand for access to benefits supports, and that the provision of these supports has facilitated access to welfare state cash benefits by people living on low incomes. In Manitoba alone, the mass CVITP clinics run by Community Financial Counselling Services recruited 100 volunteers to file 9,000 tax returns during the 2016 income tax filing season, which brought upwards of &lt;span class=&quot;math inline&quot;&gt;$21,000,000 into the hands of low-income Manitobans in the form of income tax refunds and benefits administered through the income tax system. During the same period, the smaller, staff-driven Access to Benefits program run by SEED Winnipeg and community partners supported low-income families to gain access to __$&lt;/span&gt;NUMBER__ in direct government benefits as well as providing a variety of complementary financial empowerment supports, including obtaining identification, opening no-free basic bank accounts, and gaining access to government and community asset-building opportunities. Furthermore, government and philanthropic interest in investing in the capacity of the non-profit sector to offer financial empowerment programming, including support to access income benefits, is evident in new funding commitments made by the Government of Canada and Province of Ontario, and the approval by the Province of Manitoba to re-dedicate funding from the Manitoba Saves initiative towards individualized access to benefits supports.&lt;/p&gt;
 &lt;p&gt;While the need for interventions to assist low income individuals to access government benefits finds some support in the literature, and the popularity of this approach is apparent in the existence of non-profit programs and government and philanthropic funding, the value of such an approach in contributing to social and economic justice is decidedly less clear. On one hand, the success of such programs in empowering financially vulnerable community members to access government benefits and thereby increase their wellbeing can be seen as a positive step towards economic redistribution that ensures that the state fulfills its commitment to provide income benefits. Furthermore, the relationships developed between government policymakers and non-profit agencies in funding and administering these programs may be useful in providing service providers with opportunities to represent service users by advocating for changes to the systems through which benefits are delivered. On the other hand, may be an indicator of injustice, signifying the inaccessibility of government benefits, the impenetrability of the bureaucracies through which benefits are delivered, and a failure by the state to address these issues to ensure that benefits are accessible. In this regard, the presence of nonprofit access to benefits programs may be seen as a consequence of welfare state retrenchment whereby the voluntary sector assumes responsibility that the state has offloaded, either through nonprofit-state partnerships or through efforts by nonprofits to raise the resources needed to fill gaps created by the withdrawal of state services.&lt;/p&gt;
 &lt;p&gt;This project will analyze the recent investment in programs that support financially vulnerable community members to access monetary and non-monetary welfare state benefits for which they are eligible and entitled, and yet unable to access without third-party support. By focussing on the work undertaken by community organizations in Winnipeg that support low-income community members to access welfare state benefits, including SEED Winnipeg, this project will examine whether and how service providers in this field attempt to bridge the gap between individual casework that supports service users to improve their wellbeing and working with and for service users to transform unjust structures and cultures that affect their lives. By extrapolation, I will assess the transformative potential of non-profit access to benefits services: Can social service providers facilitate access to welfare state benefits while concurrently contributing towards the realization of a more accessible and equitable system of redistribution? What role, if any, are non-profit agencies equipped to play in such a movement for social and economic justice?&lt;/p&gt;
-&lt;div class=&quot;references&quot;&gt;
+&lt;div id=&quot;refs&quot; class=&quot;references&quot;&gt;
 &lt;div id=&quot;ref-abramovitz1983&quot;&gt;
 &lt;p&gt;Abramovitz, Mimi. 1983. “Everyone Is on Welfare: ‘The Role of Redistribution in Social Policy’ Revisited.” &lt;em&gt;Social Work&lt;/em&gt; 28(6):440–45.&lt;/p&gt;
 &lt;/div&gt;
@@ -206,7 +378,7 @@
 &lt;li&gt;In examining contemporary access to benefits programming, I will draw upon the knowledge and access to the field which I have gained through my present employment as a Program Coordinator at SEED Winnipeg. In this position, I played a prominent role in the design and development of the Access to Benefits program, and have continued to be involved in delivering and administering the program. My role includes program development, research, reporting and evaluation, as well as working with community members to navigate through the barriers they face in order to access the income streams, financial services, and asset building opportunities to which they are entitled.&lt;/li&gt;
 &lt;li&gt;In addition, I will conduct informal expert interviews with colleagues who are more heavily involved in day-to-day program delivery in order to better understand how they conceive of the connections between social service work and the realization of a broader vision of social justice.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class=&quot;references&quot;&gt;
+&lt;div id=&quot;refs&quot; class=&quot;references&quot;&gt;
 &lt;div id=&quot;ref-beito2003&quot;&gt;
 &lt;p&gt;Beito, David T. 2003. &lt;em&gt;From Mutual Aid to the Welfare State: Fraternal Societies and Social Services, 1890-1967&lt;/em&gt;. Univ of North Carolina Press.&lt;/p&gt;
 &lt;/div&gt;
@@ -226,7 +398,7 @@
 &lt;p&gt;Lipsky, Michael. 1984. “Bureaucratic Disentitlement in Social Welfare Programs.” &lt;em&gt;Social Service Review&lt;/em&gt; 58(1):3–27.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&quot;ref-marshall1950&quot;&gt;
-&lt;p&gt;Marshall, T. H. 1950. &lt;em&gt;Citizenship and Social Class&lt;/em&gt;. Cambridge EngUniversity Press.&lt;/p&gt;
+&lt;p&gt;Marshall, T. H. 1950. &lt;em&gt;Citizenship and Social Class&lt;/em&gt;. Cambridge University Press.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&quot;ref-noonan2012&quot;&gt;
 &lt;p&gt;Noonan, Jeff. 2012. &lt;em&gt;Materialist Ethics and Life-Value&lt;/em&gt;. McGill-Queen’s Press - MQUP.&lt;/p&gt;
@@ -283,7 +455,7 @@
 &lt;p&gt;Political support for the voluntary sector to assume an increased role in delivering social services has come from both the right and the left. Conservative arguments call for “mediating institutions” such as voluntary organizations to play a more active role in social service in order to guard against and reduce undue government interference into the private lives of the citizenry.&lt;a href=&quot;#fn2&quot; class=&quot;footnoteRef&quot; id=&quot;fnref2&quot;&gt;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt; Progressive arguments position voluntary sector social service provision as an addition to rather than a replacement for public social welfare services and as a means for people to assume more autonomy over the welfare of their communities.&lt;a href=&quot;#fn3&quot; class=&quot;footnoteRef&quot; id=&quot;fnref3&quot;&gt;&lt;sup&gt;3&lt;/sup&gt;&lt;/a&gt; While the latter view paints a rosy picture in which voluntary sector social services increase the stock of social welfare and further the realization of social justice in a given community, the literature identifies several issues which collectively suggest that devolution from the state to the community may have the opposite effect by reducing access to basic entitlements and necessary social services by vulnerable segments of the population.&lt;/p&gt;
 &lt;p&gt;&lt;span class=&quot;citation&quot; data-cites=&quot;salamon1995&quot;&gt;Salamon (1995)&lt;/span&gt; identifies four forms of “voluntary failure” that may render the voluntary sector ill-equipped to take on responsibility for welfare provision in the absence of state support. For one, as organizations reliant upon voluntary contributions, non-profit social service agencies would face difficulties in securing the funds required to deliver vital social services. A potentially significant source of non-state funding is from tax-deductible donations made by wealthy individuals, foundations, and corporations. However, relying upon these sources is problematic given that these donors often prefer to donate to arts and cultural organizations and educational institutions than to social services organizations that work in marginalized communities. Furthermore, reliance upon wealthy donors may usher in a form of “philanthropic paternalism” &lt;span class=&quot;citation&quot; data-cites=&quot;salamon1995&quot;&gt;(Salamon 1995 PAGE)&lt;/span&gt; as the donors who foot large portions of the bill for social service programming may make their contributions conditional in order to shape the content of services and programs as well as criteria defining target groups who are eligible to access these services.&lt;/p&gt;
 &lt;p&gt;Conversely, foregoing large donations and relying upon communities of service users to fund the costs of the services they access through small donations or user fees presents its own issues. While this approach may be beneficial in furthering local control over the provision of social welfare services in a community, in practice service levels would likely be inadequate in economically marginalized communities. The same shortage of income and assets that makes social services necessary in the first place would make it unlikely that community members requiring these services would have the resources to pay for their provision. Finally, periods of economic downturn would be especially problematic for social service agencies reliant upon private contributions. At such times, when an increased proportion of the population requires access to social welfare supports, agencies’ ability to procure funding from user fees and individual donations would be further reduced.&lt;/p&gt;
-&lt;div class=&quot;references&quot;&gt;
+&lt;div id=&quot;refs&quot; class=&quot;references&quot;&gt;
 &lt;div id=&quot;ref-geiger1986&quot;&gt;
 &lt;p&gt;Geiger, R. K. and J. R. Wolch. 1986. “A Shadow State? Voluntarism in Metropolitan Los Angeles.” &lt;em&gt;Environment and Planning D: Society and Space&lt;/em&gt; 4(3):351–66.&lt;/p&gt;
 &lt;/div&gt;
@@ -294,7 +466,7 @@
 &lt;p&gt;Milward, H. Brinton. 1994. “Nonprofit Contracting and the Hollow State.” &lt;em&gt;Public Administration Review&lt;/em&gt; 54(1):73.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&quot;ref-salamon1993&quot;&gt;
-&lt;p&gt;Salamon, Lester M. 1993. “The Marketization of Welfare: Changing Nonprofit and For-Profit Roles in the American Welfare State.” &lt;em&gt;Social Service Review&lt;/em&gt; 67(1):16–39.&lt;/p&gt;
+&lt;p&gt;Salamon, Lester M. 1993. “The Marketization of Welfare: Changing Nonprofit and for-Profit Roles in the American Welfare State.” &lt;em&gt;Social Service Review&lt;/em&gt; 67(1):16–39.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&quot;ref-salamon1995&quot;&gt;
 &lt;p&gt;Salamon, Lester M. 1995. &lt;em&gt;Partners in Public Service : Government-Nonprofit Relations in the Modern Welfare State&lt;/em&gt;. Baltimore, Md: Johns Hopkins University Press.&lt;/p&gt;
@@ -425,7 +597,7 @@
 &lt;li&gt;Informal expert interviews with program delivery staff and directors at SEED Winnipeg, who have experience developing, managing, and delivering community-based social welfare programs.&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ol&gt;
-&lt;div class=&quot;references&quot;&gt;
+&lt;div id=&quot;refs&quot; class=&quot;references&quot;&gt;
 &lt;div id=&quot;ref-macdonald2011&quot;&gt;
 &lt;p&gt;MacDonald, Fiona. 2011. “Indigenous Peoples and Neoliberal ‘Privatization’ in Canada: Opportunities, Cautions and Constraints.” &lt;em&gt;Canadian Journal of Political Science/Revue canadienne de science politique&lt;/em&gt; 44(02):257–73.&lt;/p&gt;
 &lt;/div&gt;
