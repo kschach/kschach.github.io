@@ -1,32 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc></loc>
+        <loc>http://localhost:4000</loc>
     </url>
 
     
     <url>
-        <loc>/interview-questions</loc>
-    </url>
-    
-    <url>
-        <loc>/socioeconomic-justice-through-the-welfare-state</loc>
-    </url>
-    
-    <url>
-        <loc>/social-justice-through-access-to-benefits</loc>
-    </url>
-    
-    <url>
-        <loc>/parking-lot</loc>
-    </url>
-    
-    <url>
-        <loc>/proposal-draft</loc>
-    </url>
-    
-    <url>
-        <loc>/proposal-outline</loc>
+        <loc>http://localhost:4000/methodology-outline</loc>
     </url>
     
 </urlset>
