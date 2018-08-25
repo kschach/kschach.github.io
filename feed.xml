@@ -5,7 +5,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2018-08-25T02:56:37+01:00</updated>
+<updated>2018-08-25T13:39:18+01:00</updated>
 <id>/</id>
 <author>
   <name>Kevin Schachter</name>
@@ -111,8 +111,10 @@
 &lt;li&gt;Why RQDA&lt;/li&gt;
 &lt;li&gt;Sources:
 &lt;ul&gt;
+&lt;li&gt;&lt;span class=&quot;citation&quot; data-cites=&quot;huang2016&quot;&gt;Huang (2016)&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;span class=&quot;citation&quot; data-cites=&quot;chandra2017&quot;&gt;Chandra and Shang (2017)&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;span class=&quot;citation&quot; data-cites=&quot;varner2012&quot;&gt;Varner et al. (2012)&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&quot;citation&quot; data-cites=&quot;estrada2017&quot;&gt;Estrada (2017)&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&quot;coding&quot;&gt;Coding&lt;/h3&gt;
@@ -150,21 +152,24 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;span class=&quot;citation&quot; data-cites=&quot;floyd2012-1&quot;&gt;Floyd and Arthur (2012)&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;span class=&quot;citation&quot; data-cites=&quot;unluer2012&quot;&gt;Unluer (2012)&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span class=&quot;citation&quot; data-cites=&quot;coghlan2007&quot;&gt;Coghlan (2007)&lt;/span&gt; (maybe)&lt;/li&gt;
+&lt;li&gt;&lt;span class=&quot;citation&quot; data-cites=&quot;coghlan2007&quot;&gt;Coghlan (2007)&lt;/span&gt; &lt;em&gt;maybe&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&quot;limitations&quot;&gt;Limitations&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Generalizability&lt;/li&gt;
 &lt;li&gt;Insider position&lt;/li&gt;
+&lt;li&gt;…&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&quot;questions-for-mara&quot;&gt;Questions for Mara&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Any sections to add / remove / rename / reorder?&lt;/li&gt;
 &lt;li&gt;How much methodological literature to cite?&lt;/li&gt;
+&lt;li&gt;Any methodological literature to add?&lt;/li&gt;
 &lt;li&gt;How much do I need to justify my approach with reference to the literature?&lt;/li&gt;
-&lt;li&gt;Fletcher’s work is a huge influence for me. Can I follow her methodology and directly state that I am doing so with slight modifications?&lt;/li&gt;
+&lt;li&gt;Fletcher’s work is a huge influence for me. Can I follow her methodology and transparently state / reference that I am doing so with slight modifications?&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h1 id=&quot;references&quot; class=&quot;unnumbered&quot;&gt;References&lt;/h1&gt;
 &lt;div id=&quot;refs&quot; class=&quot;references&quot;&gt;
 &lt;div id=&quot;ref-canadianinstitutesofhealthresearch2014&quot;&gt;
 &lt;p&gt;Canadian Institutes of Health Research, Natural Sciences and Engineering Research Council of Canada, and Social Sciences and Humanities Research Council of Canada. 2014. &lt;em&gt;Tri-Council Policy Statement: Ethical Conduct for Research Involving Humans&lt;/em&gt;. Retrieved March 28, 2018 (&lt;a href=&quot;http://www.pre.ethics.gc.ca/pdf/eng/tcps2-2014/TCPS_2_FINAL_Web.pdf&quot; class=&quot;uri&quot;&gt;http://www.pre.ethics.gc.ca/pdf/eng/tcps2-2014/TCPS_2_FINAL_Web.pdf&lt;/a&gt;).&lt;/p&gt;
@@ -187,6 +192,9 @@
 &lt;div id=&quot;ref-edwards2014&quot;&gt;
 &lt;p&gt;Edwards, Paul K., Joe O’Mahoney, Steve Vincent, and Inc ebrary. 2014. &lt;em&gt;Studying Organizations Using Critical Realism A Practical Guide&lt;/em&gt;. 1st ed.. Oxford, U.K.: Oxford University Press. Retrieved January 9, 2017 (&lt;a href=&quot;http://site.ebrary.com/lib/umanitoba/docDetail.action?docID=10848637&quot; class=&quot;uri&quot;&gt;http://site.ebrary.com/lib/umanitoba/docDetail.action?docID=10848637&lt;/a&gt;).&lt;/p&gt;
 &lt;/div&gt;
+&lt;div id=&quot;ref-estrada2017&quot;&gt;
+&lt;p&gt;Estrada, Samantha. 2017. “Qualitative Analysis Using R: A Free Analytic Tool.” &lt;em&gt;The Qualitative Report&lt;/em&gt; 22(4):956–68. Retrieved (&lt;a href=&quot;https://nsuworks.nova.edu/tqr/vol22/iss4/&quot; class=&quot;uri&quot;&gt;https://nsuworks.nova.edu/tqr/vol22/iss4/&lt;/a&gt;).&lt;/p&gt;
+&lt;/div&gt;
 &lt;div id=&quot;ref-fletcher2017&quot;&gt;
 &lt;p&gt;Fletcher, Amber J. 2017. “Applying Critical Realism in Qualitative Research: Methodology Meets Method.” &lt;em&gt;International Journal of Social Research Methodology&lt;/em&gt; 20(2):181–94. Retrieved January 9, 2017 (&lt;a href=&quot;http://dx.doi.org/10.1080/13645579.2016.1144401&quot; class=&quot;uri&quot;&gt;http://dx.doi.org/10.1080/13645579.2016.1144401&lt;/a&gt;).&lt;/p&gt;
 &lt;/div&gt;
@@ -198,6 +206,9 @@
 &lt;/div&gt;
 &lt;div id=&quot;ref-gilgun2014&quot;&gt;
 &lt;p&gt;Gilgun, Jane. 2014. “Introduction to the Chicago School: Deductive Qualitative Analysis and Grounded Theory.”&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&quot;ref-huang2016&quot;&gt;
+&lt;p&gt;Huang, Ronggui. 2016. &lt;em&gt;RQDA: R-Based Qualitative Data Analysis. R Package Version 0.2-8.&lt;/em&gt; Retrieved (&lt;a href=&quot;http://rqda.r-forge.r-project.org/&quot; class=&quot;uri&quot;&gt;http://rqda.r-forge.r-project.org/&lt;/a&gt;).&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&quot;ref-kvale2007&quot;&gt;
 &lt;p&gt;Kvale, Steinar. 2007. &lt;em&gt;Doing Interviews&lt;/em&gt;. 1 Oliver’s Yard, 55 City Road, London England EC1Y 1SP United Kingdom: SAGE Publications, Ltd. Retrieved January 2, 2017 (&lt;a href=&quot;http://methods.sagepub.com/book/doing-interviews&quot; class=&quot;uri&quot;&gt;http://methods.sagepub.com/book/doing-interviews&lt;/a&gt;).&lt;/p&gt;
@@ -221,7 +232,7 @@
 &lt;p&gt;Unluer, Sema. 2012. “Being an Insider Researcher While Conducting Case Study Research.” &lt;em&gt;Qualitative Report&lt;/em&gt; 17:58. Retrieved March 11, 2015 (&lt;a href=&quot;http://eric.ed.gov/?id=EJ981455&quot; class=&quot;uri&quot;&gt;http://eric.ed.gov/?id=EJ981455&lt;/a&gt;).&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&quot;ref-varner2012&quot;&gt;
-&lt;p&gt;Varner, Lindsey D., Aundrea Carter, Robert Furter, and Holly Downs. 2012.“R QUALITATIVE DATA ANALYSIS (RQDA) PACKAGE: A FREE QUALITATIVE DATA ANALYSIS TOOL. Learn How to Import and Work with Interview Data in R.” Greensboro, NC.&lt;/p&gt;
+&lt;p&gt;Varner, Lindsey D., Aundrea Carter, Robert Furter, and Holly Downs. 2012.“R Qualitative Data Analysis (RQDA) Package: A Free Qualitative Data Analysis Tool. Learn How to Import and Work with Interview Data in R.” Presented at the 26th Annual Conference of the American Evaluation Association, October 26, Minneapolis, Minnesota, USA. Retrieved August 24, 2018 (&lt;a href=&quot;http://comm.eval.org/data/viewdocument/eval12-session-682&quot; class=&quot;uri&quot;&gt;http://comm.eval.org/data/viewdocument/eval12-session-682&lt;/a&gt;).&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
   &lt;p&gt;&lt;a href=&quot;/methodology-outline&quot;&gt;Methodology Chapter Outline&lt;/a&gt; was originally published by Kevin Schachter at &lt;a href=&quot;&quot;&gt;Confessions of a Futbol Revolutionist&lt;/a&gt; on August 24, 2018.&lt;/p&gt;</content>
