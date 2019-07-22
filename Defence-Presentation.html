@@ -51,11 +51,11 @@ body {background: #111;background-color: #111; }.reveal {font-family: "Open Sans
     var link = document.createElement( 'link' );
     link.rel = 'stylesheet';
     link.type = 'text/css';
-    link.href = window.location.search.match( /print-pdf/gi ) ? '../Assets/reveal.js//css/print/pdf.css' : '../Assets/reveal.js//css/print/paper.css';
+    link.href = window.location.search.match( /print-pdf/gi ) ? './reveal.js/css/print/pdf.css' : './reveal.js/css/print/paper.css';
     document.getElementsByTagName( 'head' )[0].appendChild( link );
   </script>
   <!--[if lt IE 9]>
-  <script src="../Assets/reveal.js//lib/js/html5shiv.js"></script>
+  <script src="./reveal.js/lib/js/html5shiv.js"></script>
   <![endif]-->
 </head>
 <body>
@@ -96,7 +96,7 @@ Excited to present my thesis research
 <li>The focus of my research is the problem of benefit non-take-up and the remedy of benefit intermediary programs in Manitoba.</li>
 <li>Government income benefits are vital to enabling low-income Manitobans to meet their basic needs.</li>
 <li>Government transfers accounted for over half of the total incomes of Manitobans in the bottom income decile (2015).</li>
-<li>However, many vulnerable community members face barriers to claiming the benefits to which they’re entitled.</li>
+<li>However, many vulnerable community members face barriers to claiming the benefits to which they’re entitled (5% - 15% of the bottom income decile – no government transfers, 2015).</li>
 <li>In response to this problem nonprofit and public sectors agencies offer “benefit intermediary programs” that promote access to income benefits.</li>
 <li>My goal for this research is to contribute to the sociological understanding of benefit intermediary programs and to produce knowledge that can inform program development.</li>
 </ul>
@@ -191,8 +191,7 @@ Excited to present my thesis research
 <ul>
 <li>“what works for whom in what circumstances … and why” (Pawson and Manzano-Santaella)</li>
 </ul></li>
-<li><strong>Context</strong> in which a program is embedded and intervenes</li>
-<li><strong>Mechanisms</strong> that produce and sustain the social problem a program seeks to solve</li>
+<li><strong>Context</strong> in which a social problem prevails and a social program intervenes</li>
 <li><strong>Mechanisms</strong> a program triggers to address this problem</li>
 <li><strong>Outcomes</strong> a program realizes</li>
 <li>As a variant of critical realism, realist evaluation recognizes the engaged position of the researcher.</li>
@@ -227,7 +226,7 @@ Excited to present my thesis research
 </div>
 <aside class="notes">
 <ul>
-<li>These programs operate within the “social liberal” welfare state of Manitoba, characterized by some universal services and residual income benefits.</li>
+<li>These programs operate within the “social liberal” (Olsen) welfare state of Manitoba, characterized by some universal services (public education and healthcare) and residual income benefits.</li>
 <li>In this context, there are significant <strong>barriers to benefit take-up</strong>, including:
 <ul>
 <li><strong>complicated</strong> benefit systems and claiming processes</li>
@@ -287,7 +286,7 @@ Excited to present my thesis research
 <li><strong>Education</strong> about benefits, rights, and responsibilities;</li>
 <li><strong>Assistance</strong> to identify and apply for benefits;</li>
 <li><strong>Problem-solving</strong> and coaching when issues arise in claiming benefits;</li>
-<li><strong>Advocacy</strong> to benefit administrators;</li>
+<li><strong>Informal advocacy</strong> to case workers;</li>
 <li><strong>Formal representation</strong> at administrative tribunals at which appeals can be made and benefit decisions are adjudicated.</li>
 </ul></li>
 </ul>
@@ -345,8 +344,9 @@ Excited to present my thesis research
 </ul></li>
 <li><p>Succeed in redistributing income because they employ affirmative recognition in their approach to service delivery</p>
 <ul>
-<li>Service users set own goals and determine the level of assistance they would like from service providers – “Taking the lead from the participant”</li>
-<li>Service providers respect and value service users’ autonomy, knowledge, and life experiences, and employ “supportive counseling,” coaching, and “active listening” skills during service delivery.</li>
+<li>Service users set and pursue own goals and determine the level of assistance they would like from service providers – “Taking the lead from the participant”</li>
+<li>Service providers recognize and respect service users as peers – value service users’ autonomy, knowledge, and life experiences,</li>
+<li>Service providers employ relational skills – “supportive counseling,” coaching, empathy, “active listening” – to promote access to benefits.</li>
 </ul></li>
 </ul>
 </aside>
@@ -412,7 +412,7 @@ Excited to present my thesis research
 <li>Federal and provincial governments have increased funding for nonprofit benefit intermediary programs.</li>
 <li><strong>A growing field of practice</strong> as additional agencies offer benefit intermediary programs, or expand existing programs.</li>
 </ul></li>
-<li>I find that these outcomes constitute nonreformist reforms in that they:
+<li>I find that these outcomes constitute nonreformist reforms in that they show a “double face” (Fraser)
 <ul>
 <li>Facilitate greater access to income benefits by low-income community members, who can better meet their basic needs, enhance their quality of life, and have more freedom to pursue future goals.</li>
 <li>Expand the set of options available to benefit intermediaries and other actors working for economic justice, who can use successful policy and practice changes, the broader availability of benefit intermediary services, and new sources of government funding to pursue further reforms.</li>
@@ -6126,9 +6126,9 @@ Excited to present my thesis research
 
         // Optional reveal.js plugins
         dependencies: [
-          { src: '../Assets/reveal.js//lib/js/classList.js', condition: function() { return !document.body.classList; } },
-          { src: '../Assets/reveal.js//plugin/zoom-js/zoom.js', async: true },
-          { src: '../Assets/reveal.js//plugin/notes/notes.js', async: true }
+          { src: './reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+          { src: './reveal.js/plugin/zoom-js/zoom.js', async: true },
+          { src: './reveal.js/plugin/notes/notes.js', async: true }
         ]
       });
 
